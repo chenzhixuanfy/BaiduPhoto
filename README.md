@@ -7,7 +7,7 @@
 # 运行环境：windows
 
 # 使用说明
-1. 在百度一刻相册浏览器端 https://photo.baidu.com/photo/web/home 按下F12
+1. 在百度一刻相册浏览器端 https://photo.baidu.com/photo/web/home 按下F12，然后刷新
 2. 按照以下流程获得Cookie
    ![](pic/Snipaste_2023-11-16_17-15-21.png)
 3. 获取表单数据
