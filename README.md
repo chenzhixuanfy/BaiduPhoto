@@ -9,9 +9,9 @@
 # 使用说明
 1. 在百度一刻相册浏览器端 https://photo.baidu.com/photo/web/home 按下F12
 2. 按照以下流程获得Cookie
-   ![pic/](Snipaste_2023-11-16_17-15-21.png)
+   ![](pic/Snipaste_2023-11-16_17-15-21.png)
 3. 获取表单数据
-   ![pic/](Snipaste_2023-11-16_17-27-09.png)
+   ![](pic/Snipaste_2023-11-16_17-27-09.png)
 4. 将2、3步中找到的值填入settings.json对应位置，如果Cookie值中有双引号，则用转义字符\\"代替双引号"
 5. 先运行FindPhotoList.py获得所有照片的fsid和其他信息（包括拍摄时间、地点等）
 6. 再运行BaiduPhtot.py下载所有照片视频
